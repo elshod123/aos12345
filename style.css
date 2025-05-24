@@ -1,0 +1,81 @@
+.a1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header{
+    
+    width: 1400x;
+    height: 350px;
+    
+}
+
+
+.a2 h1{
+    color: white;
+}
+
+.a3 h1{
+color: white;
+font-size: 30px;
+width: 277px;
+height: 96px;
+background-image: url(./slider2\ 2\ \(1\).png);
+width: 1920px;
+height: 300px;
+}
+
+
+main h1{
+    text-align: center;
+    color: black;
+}
+
+
+.e1{
+
+display: flex;
+justify-content: space-around;
+
+
+
+
+}
+
+
+h3{
+    font-size: 20px;
+}
+
+.s1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.f1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.r2{
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
